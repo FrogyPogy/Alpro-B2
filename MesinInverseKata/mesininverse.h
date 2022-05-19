@@ -1,3 +1,8 @@
+/* Program   : mesininverse.h */
+/* Deskripsi : Header program mesininverse untuk mencatat hasil inverse sebuah pita karakter */
+/* NIM/Nama  : 24060120140082 Najib Rifai Indrayanto*/
+/* Tanggal   : 19 Mei 2022*/
+
 #ifndef MESININVERSE_H
 #define MESININVERSE_H
 
