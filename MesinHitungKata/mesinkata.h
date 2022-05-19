@@ -1,3 +1,8 @@
+/* Program   : mesin.h */
+/* Deskripsi : Header dari Program mesinkata.c untuk menghitung jumlah kata dalam pitakarakter */
+/* NIM/Nama  : 24060120140082 Najib Rifai Indrayanto*/
+/* Tanggal   : 19 Mei 2022*/
+
 #ifndef MESINKATA_H
 #define MESINKATA_H
 
