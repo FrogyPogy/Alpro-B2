@@ -1,3 +1,8 @@
+/* Program   : main.c */
+/* Deskripsi : Driver Program mesininverse.c*/
+/* NIM/Nama  : 24060120140082 Najib Rifai Indrayanto*/
+/* Tanggal   : 19 Mei 2022*/
+
 #include<stdio.h>
 #include<conio.h>
 #include"mesininverse.h"
