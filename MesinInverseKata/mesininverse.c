@@ -1,3 +1,8 @@
+/* Program   : mesininverse.c */
+/* Deskripsi : Implementasi Program mesininverse.h untuk menulis hasil inverse dari pitakarakter*/
+/* NIM/Nama  : 24060120140082 Najib Rifai Indrayanto*/
+/* Tanggal   : 19 Mei 2022*/
+
 #include <stdio.h>
 #include "mesininverse.h"
 
