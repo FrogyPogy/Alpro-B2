@@ -1,3 +1,8 @@
+/* Program   : mesinkata.c */
+/* Deskripsi : Implementasi Program mesinkata untuk menghitung jumlah kata dalam pitakarakter */
+/* NIM/Nama  : 24060120140082 Najib Rifai Indrayanto*/
+/* Tanggal   : 19 Mei 2022*/
+
 #include <stdio.h>
 #include "mesinkata.h"
 
